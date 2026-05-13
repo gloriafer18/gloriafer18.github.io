@@ -24,24 +24,24 @@ My research interests include Human–Computer Interaction (HCI), Learning Analy
 * Evidence center assessment for writing with generative artificial intelligence. As part of this project, I collaborate with educators and students to better understand:i) the kinds of competencies that should be assessed in GenAI-assisted writing, ii) what counts as evidence of those competencies, and iii) how that evidence can be represented in actionable and interpretable ways.
   
 * Centre for Learning and Living with AI (CELLA): This project aim supporting the Self-Regulated Learning of 12–15-Year-Old Secondary School Students Through Learning Analytics and Generative AI.
-**Relevant paper**:
-**2025** [Transfer Reinforcement Learning for Self-Regulated Learning Support](https://link.springer.com/chapter/10.1007/978-3-031-98465-5_55).
-[A learning analytics dashboard to support students' reflection on collaboration](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.13088)
+**Relevant papers**:
+1) **2025** [Transfer Reinforcement Learning for Self-Regulated Learning Support](https://link.springer.com/chapter/10.1007/978-3-031-98465-5_55).
+2) [A learning analytics dashboard to support students' reflection on collaboration](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.13088)
 
 ## Previous projects:
 
-* Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University￼, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
+Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University￼, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
 
 **Relevant papers**:
-[Co-designing a knowledge management tool for educators](https://dl.acm.org/doi/abs/10.1145/3643834.3660682).
-**2026** [Capturing and sharing know-how through visual process representations](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2026.2636694)
+1) [Co-designing a knowledge management tool for educators](https://dl.acm.org/doi/abs/10.1145/3643834.3660682).
+2) **2026** [Capturing and sharing know-how through visual process representations](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2026.2636694)
 
 * Teamwork Analytics: I investigate the use of data traces captured in physical spaces to provide feedback through visualisations and data storytelling approaches, supporting teachers’ and students’ sensemaking processes in healthcare simulation and collaborative learning settings. More information about this research is available on [Teamwork Analytics](https://github.com/Teamwork-Analytics).
  
 **Relevant papers**:
-[Teacher-cetred tool to for customissing learning analytics narratives](https://dl.acm.org/doi/abs/10.1145/3636555.3636930). 
-[What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?](https://dl.acm.org/doi/abs/10.1145/3449284).
-**2026** [Scalable LLM-based Coding of Dialogue in Healthcare Simulation](https://arxiv.org/abs/2604.23255)
+1) [Teacher-cetred tool to for customissing learning analytics narratives](https://dl.acm.org/doi/abs/10.1145/3636555.3636930). 
+2) [What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?](https://dl.acm.org/doi/abs/10.1145/3449284).
+3) **2026** [Scalable LLM-based Coding of Dialogue in Healthcare Simulation](https://arxiv.org/abs/2604.23255).
 
 # Relevant Publications
 All publications available on [Google Scholar](https://scholar.google.com/citations?user=At47quwAAAAJ&hl=es)
