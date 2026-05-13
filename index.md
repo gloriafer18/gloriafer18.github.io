@@ -1,41 +1,54 @@
 <!---![Me in Sydney](/Gloria.jpg) [Home]({{site.baseurl}}/index) |-->
 
-[![Monash Profile](https://img.shields.io/badge/Monash%20Profile-f1f1f1?style=for-the-badge)](https://research.monash.edu/en/persons/gloria-fernandez-nieto) | [![Twitter URL](https://img.shields.io/badge/Twitter-f1f1f1?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/@gmfernandezn) | [![Twitter URL](https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gloria-fernandez-4baa7a4a/)
+[![Monash Profile](https://img.shields.io/badge/Monash%20Profile-f1f1f1?style=for-the-badge)](https://research.monash.edu/en/persons/gloria-fernandez-nieto) | [![Twitter URL](https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gloria-fernandez-4baa7a4a/)
 | [![Google Scholar](https://img.shields.io/badge/Scholar-f1f1f1?style=for-the-badge&logo=google&logoColor=black)](https://scholar.google.com/citations?user=At47quwAAAAJ&hl=en&oi=ao)
 
 # Who am I?
 
-My name is Gloria Milena Fernández Nieto. I am originally from Bogotá, Colombia, and have a passion for data, analytics, and visualisations. My interest in using data to support others' practices grew 
-during both my bachelor's and master's degrees. I am a computer system engineer and obtained my degree in 2012 from the Universidad Distrital and my master degree in 2015 from Universidad de Los 
-Andes.  
-In 2023, I completed my PhD in Learning Analytics. I am fascinated by the potential of physical and online data traces that could be used to support a better understanding of learning/teaching activities. Data traces are valuable resources 
-for teachers and students to identify insights and reflect on their co-located activities such as teamwork, collaboration, self-regulated learning, or spatial behaviours.
+My name is Gloria Milena Fernández Nieto. I am originally from Bogotá, Colombia, and I have a passion for data, analytics, and visualisation. My interest in using data to support others’ practices developed during both my bachelor’s and master’s studies. I am a Computer Systems Engineer and obtained my bachelor’s degree in 2012 from Universidad Distrital and my master’s degree in 2015 from Universidad de Los Andes. 
 
-# Current work
+I am a Research Fellow at the Faculty of Information Technology, [Monash University](https://research.monash.edu/en/persons/gloria-fernandez-nieto), and a member of the Centre for Learning Analytics at Monash (CoLAM). I earned my PhD in Learning Analytics from the University of Technology Sydney. My research sits at the intersection of Learning Analytics, Human–Computer Interaction (HCI), Artificial Intelligence, and the Learning Sciences.
 
-I'm a Research Fellow at the Faculty of Information Technology, [Monash University](https://research.monash.edu/en/persons/gloria-fernandez-nieto), Australia. My research focuses on designing and 
-deploying innovative tools to enhance teaching and learning analytics across physical and digital spaces.
-
-My work aims to find the optimal alignment between learning pedagogies and the potential of emerging technologies, providing lasting support for both learners and educators.
-
-Key areas of my research include:
-* Knowledge Management Systems: I work on the design and development of a system that facilitate knowledge management within communities of practice for educators. My research includes the exploration 
-of the role of data comics, a storytelling approach, in communicating and disseminating knowledge within the context of teachers' natural  workflows.
-This research is funded by the Defense Advanced Research Projects Agency (DARPA-KMASS) under the "Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation" project.
-* Teamwork Analytics: I investigate the use of data traces to provide feedback through visualisations and **data storytelling** elements, assisting teachers and students in their sensemaking 
-processes. 
-More information about this research is available on [Teamwork Analytics](https://github.com/Teamwork-Analytics)
-
+I am fascinated by the potential of physical and digital data traces to support a better understanding of learning and teaching activities. These data traces can provide valuable insights for teachers and students to reflect on co-located activities such as teamwork, collaboration, self-regulated learning, and spatial behaviours.
 
 # About my research
 
-I explore alternative feedback methods to analyse learner and educator digital/physical traces, aiming to stimulate reflection in teaching and learning practices. I leverage my expertise in human-computer interaction, collaborative learning, and 
-artificial intelligence to design analytics dashboards, knowledge management systems, and data storytelling tools for regular classrooms and healthcare settings. Recently, I pioneered the application 
-of different forms of participatory design such as **co-design** at the intersection of education and data science.
+My research focuses on designing and deploying innovative tools to enhance teaching and learning analytics across both physical and digital spaces.
 
-# Publications
+My work aims to identify effective alignments between learning pedagogies and emerging technologies, providing meaningful and lasting support for both learners and educators.
+
+My research interests include Human–Computer Interaction (HCI), Learning Analytics, Computer-Supported Learning, Self-Regulated Learning, Reflection, and AI in Education.
+
+## Current projects:
+* Unpacking the Development of Self-Regulated Learning in Primary School Children - LEVANTE (2026–2030): This project aims to characterise the variability in the development of self-regulated learning (SRL) skills over time, both within individuals and across groups and contexts. This research is funded by the [Jacobs Foundation](https://levante-network.org/levante-sites/).
+  
+* Evidence center assessment for writing with generative artificial intelligence. As part of this project, I collaborate with educators and students to better understand:i) the kinds of competencies that should be assessed in GenAI-assisted writing, ii) what counts as evidence of those competencies, and iii) how that evidence can be represented in actionable and interpretable ways.
+  
+* Centre for Learning and Living with AI (CELLA): This project aim supporting the Self-Regulated Learning of 12–15-Year-Old Secondary School Students Through Learning Analytics and Generative AI.
+Relevant paper:
+**recent publication** 2025 [Transfer Reinforcement Learning for Self-Regulated Learning Support](https://link.springer.com/chapter/10.1007/978-3-031-98465-5_55)
+[A learning analytics dashboard to support students' reflection on collaboration](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.13088)
+
+## Previous projects:
+
+* Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University￼, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
+Relevant papers:
+[Co-designing a knowledge management tool for educators](https://dl.acm.org/doi/abs/10.1145/3643834.3660682)
+**recent publication** 2026 [Capturing and sharing know-how through visual process representations](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2026.2636694)
+
+* Teamwork Analytics: I investigate the use of data traces captured in physical spaces to provide feedback through visualisations and data storytelling approaches, supporting teachers’ and students’ sensemaking processes in healthcare simulation and collaborative learning settings. More information about this research is available on [Teamwork Analytics](https://github.com/Teamwork-Analytics).
+Relevant papers:
+[Teacher-cetred tool to for customissing learning analytics narratives](https://dl.acm.org/doi/abs/10.1145/3636555.3636930)
+[What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?](https://dl.acm.org/doi/abs/10.1145/3449284)
+**recent publication** 2026 [Scalable LLM-based Coding of Dialogue in Healthcare Simulation](https://arxiv.org/abs/2604.23255)
+
+# Relevant Publications (all publications available in [Google Sholar](https://scholar.google.com/citations?user=At47quwAAAAJ&hl=es))
 
 ## Journal papers
+
+**recent publication** Fernandez-Nieto, G. M., Echeverria, V., Li, Y., Tsai, Y. S., Sha, L., Chen, G., … Swiecki, Z. (2026). Capturing and sharing know-how through visual process representations: a human-Centred approach to teacher workflows. Behaviour & Information Technology, 1–30. [https://doi.org/10.1080/0144929X.2026.2636694]()
+
+Echeverria, V., Nieto, G. F., Zhao, L., Palominos, E., Srivastava, N., Gašević, D., Pammer-Schindler, V., & Martinez-Maldonado, R. (2025). A learning analytics dashboard to support students' reflection on collaboration. Journal of Computer Assisted Learning, 41(1), e13088. [https://doi.org/10.1111/jcal.13088](https://doi.org/10.1111/jcal.13088)
 
 Roberto Martinez-Maldonado, Vanessa Echeverria, **Gloria Fernandez-Nieto**, Lixiang Yan, Linxuan Zhao, Riordan Alfredo, Xinyu Li, Samantha Dix, Hollie Jaggard, Rosie Wotherspoon, Abra Osborne, Simon 
 Buckingham Shum, and Dragan Gašević. 2023. Lessons Learnt from a Multimodal Learning Analytics Deployment In-the-Wild. ACM Trans. Comput.-Hum. Interact. 31, 1, Article 8 (February 2024), 41 pages. 
@@ -57,6 +70,9 @@ Roberto Martinez-Maldonado, Vanessa Echeverria, **Gloria Milena Fernandez-Nieto*
 Analytics. In CHI Conference on Human Factors in Computing Systems CHI'20. 15 pages. doi [https://doi.org/10.1145/ 3313831.3376148](https://doi.org/10.1145/ 3313831.3376148)
 
 ## Conference proceedings
+
+
+**recent publication**  Garces, K., **Fernandez-Nieto, G.**, et al. (2025). Transfer Reinforcement Learning for Self-Regulated Learning Support: An Evaluation Using Successor Representations. In: Cristea, A.I., Walker, E., Lu, Y., Santos, O.C., Isotani, S. (eds) Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15882. Springer, Cham. https://doi.org/10.1007/978-3-031-98465-5_55
 
 **Fernandez-Nieto, G.**, Swiecki, Z., Tsai, Y.-S., Sha, L., Wei, Y., Wen, J., . . . Gašević, D. (2024). Co-designing a knowledge management tool for educator communities of practice. ACM - DIS, 1970–1990. recent
 publication. doi: [https://doi.org/10.1145/3643834.3660682](https://doi.org/10.1145/3643834.3660682)
@@ -88,16 +104,16 @@ paper**]
 
 ## Workshop papers:
 
+The Second International Workshop on Multimodal Artificial Intelligence in Education (MAIEd’25) [https://link.springer.com/chapter/10.1007/978-3-031-99267-4_38](https://link.springer.com/chapter/10.1007/978-3-031-99267-4_38)
+
 **Gloria Fernandez-Nieto**, K. Kitto, and R. Martinez Maldonado, Four Challenges in Crafting Multimodal Collaboration Analytics for non-Data experts, 2019. In CSCL 2019, Collaboration Analytics. 
 [PDF](https://collaborationanalytics.files.wordpress.com/2019/06/submission-7-fernandez.pdf)
 
 Miguel A. Ronda, Olga C. Santos, Roberto Martinez-Maldonado and **Gloria Fernandez-Nieto**. Exploring Emotional Reactions in Teamwork using Multimodal Physiological Data. MAIEd'21. 12 pages. 
 
-
-
 ## Workshop/Tutorial Chair:
 
-LAK24 Workshop Chair [LAK24 Web page](https://www.solaresearch.org/events/lak/lak24/committees/)
+**recent publication** LAK24 Workshop Chair [LAK24 Web page](https://www.solaresearch.org/events/lak/lak24/committees/)
 
 Workshop Organiser: **Gloria Milena Fernandez-Nieto**, et al., Converging Data Storytelling Narratives and Learning Analytics Dashboards. LAK24. [Web 
 page](https://datastorytelling-education.github.io/)
