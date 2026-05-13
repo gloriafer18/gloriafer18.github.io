@@ -42,7 +42,8 @@ Relevant papers:
 [What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?](https://dl.acm.org/doi/abs/10.1145/3449284)
 **recent publication** 2026 [Scalable LLM-based Coding of Dialogue in Healthcare Simulation](https://arxiv.org/abs/2604.23255)
 
-# Relevant Publications (all publications available in [Google Sholar](https://scholar.google.com/citations?user=At47quwAAAAJ&hl=es))
+# Relevant Publications
+All publications available on [Google Scholar](https://scholar.google.com/citations?user=At47quwAAAAJ&hl=es)
 
 ## Journal papers
 
