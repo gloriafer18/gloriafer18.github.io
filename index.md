@@ -30,7 +30,7 @@ My research interests include Human–Computer Interaction (HCI), Learning Analy
 
 ## Previous projects:
 
-* Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University￼, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
+* Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
 **Relevant papers**:
 1) [Co-designing a knowledge management tool for educators](https://dl.acm.org/doi/abs/10.1145/3643834.3660682).
 2) **2026** [Capturing and sharing know-how through visual process representations](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2026.2636694)
