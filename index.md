@@ -30,15 +30,13 @@ My research interests include Human–Computer Interaction (HCI), Learning Analy
 
 ## Previous projects:
 
-Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University￼, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
-
+* Knowledge Management Systems: In collaboration with a multidisciplinary team at Monash University￼, we designed and developed a knowledge management system to facilitate knowledge sharing within communities of practice for educators. In this project, I explored the role of data comics and storytelling approaches in communicating and disseminating knowledge within teachers’ natural workflows. This research was funded by Defense Advanced Research Projects Agency (DARPA-KMASS) under the project Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation.
 **Relevant papers**:
 1) [Co-designing a knowledge management tool for educators](https://dl.acm.org/doi/abs/10.1145/3643834.3660682).
 2) **2026** [Capturing and sharing know-how through visual process representations](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2026.2636694)
 
 * Teamwork Analytics: I investigate the use of data traces captured in physical spaces to provide feedback through visualisations and data storytelling approaches, supporting teachers’ and students’ sensemaking processes in healthcare simulation and collaborative learning settings. More information about this research is available on [Teamwork Analytics](https://github.com/Teamwork-Analytics).
- 
-**Relevant papers**:
+ **Relevant papers**:
 1) [Teacher-cetred tool to for customissing learning analytics narratives](https://dl.acm.org/doi/abs/10.1145/3636555.3636930). 
 2) [What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?](https://dl.acm.org/doi/abs/10.1145/3449284).
 3) **2026** [Scalable LLM-based Coding of Dialogue in Healthcare Simulation](https://arxiv.org/abs/2604.23255).
